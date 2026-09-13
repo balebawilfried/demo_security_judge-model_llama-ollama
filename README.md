@@ -12,7 +12,7 @@ Il faut aussi avoir installé et configuré le necessaire suivant :
 - ollama pour python (pip install ollama)
 
 
-### II. TESTS
+## II. TESTS
 En guise de démo, il suffit d'exécuter l'ensemble des scripts ci-dessous pour voir comment le modèle se comporte. 
 
 1- Tests initiaux
