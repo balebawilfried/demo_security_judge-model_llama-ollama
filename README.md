@@ -13,7 +13,7 @@ Il faut aussi avoir installé et configuré le necessaire suivant :
 
 
 ### II. TESTS
-Pour en guise de démo, il suffit d'exécuter l'ensemble des scripts pour voir comment le modèle se compose. 
+En guise de démo, il suffit d'exécuter l'ensemble des scripts ci-dessous pour voir comment le modèle se comporte. 
 
 1- Tests initiaux
 ```powershell
